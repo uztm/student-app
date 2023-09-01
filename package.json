@@ -1,0 +1,48 @@
+{
+  "name": "controll",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@formatjs/intl": "^2.9.0",
+    "@formatjs/intl-relativetimeformat": "^11.2.4",
+    "@react-native-async-storage/async-storage": "^1.19.1",
+    "@react-native-community/checkbox": "^0.5.16",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/stack": "^6.3.17",
+    "expo": "~49.0.5",
+    "expo-status-bar": "~1.6.0",
+    "i18next": "^23.4.1",
+    "intl": "^1.2.5",
+    "intl-pluralrules": "^2.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^13.0.2",
+    "react-intl": "^6.4.4",
+    "react-native": "0.72.3",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-localize": "^3.0.2",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-svg": "^13.10.0",
+    "react-native-svg-charts": "^5.4.0",
+    "react-native-table-component": "^1.2.2",
+    "react-native-vector-icons": "^10.0.0",
+    "react-native-web": "~0.19.6",
+    "react-redux": "^8.1.2",
+    "redux": "^4.2.1",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@expo/webpack-config": "^18.1.2"
+  },
+  "private": true
+}
